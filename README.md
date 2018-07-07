@@ -20,8 +20,10 @@ Plot the relationship between walk score and three real estate variables: invent
 
 ## Deliverables
 
+Please submit the following:
+
 * Any code you used for the data munging steps, or a concise outline of the steps you took.
 * An image of your map or a link to it if it's on the web.
 * An image of your plots, along with your brief analysis and suggested further steps.
 
-Text should be measured in paragraphs, not pages! Please don't hesitate to reach out to ian.stuart@wework.com with any questions. Thank you!
+Text should be measured in paragraphs, not pages! We don't want you to spend more than a few hours on this. Please submit your response to ian.stuart@wework.com, and don't hesitate to reach out to the same address with any questions. You can submit your files via a link to a forked version of this repo, or you can send them as email attachments. Thank you!
