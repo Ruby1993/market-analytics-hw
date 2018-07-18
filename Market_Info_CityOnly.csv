@@ -1,0 +1,38 @@
+MARKET NAME,Total Inventory (SF),Vacancy%,Asking Rent (USD/SF),city,lat,lng,path_city,path_state,walkscore
+Philadelphia,135570108.0,12.7,26.43,Philadelphia,40.0076,-75.134,Philadelphia,PA,75.0
+Washington D.C.,332015221.0,16.2,41.34,Washington D.C.,38.9048,-77.0163,Washington D.C.,DC,91.0
+Chicago,245753058.0,16.4,33.94,Chicago,41.8369,-87.6848,Chicago,IL,41.0
+Detroit,67520823.0,18.9,19.16,Detroit,42.3834,-83.1024,Detroit,MI,37.0
+Minneapolis,72718254.0,16.6,26.33,Minneapolis,44.9635,-93.2678,Minneapolis,MN,80.0
+Boston,166649555.0,13.2,36.67,Boston,42.3327,-71.0815,Boston,MA,86.0
+Atlanta,146936743.0,17.9,24.81,Atlanta,33.7627,-84.4231,Atlanta,GA,60.0
+Charlotte,51191720.0,12.2,26.89,Charlotte,35.2079,-80.8301,Charlotte,NC,76.0
+Kansas City,32888633.0,20.0,19.97,Kansas City,39.1239,-94.5541,Kansas City,MO,20.0
+Miami,37640777.0,13.5,37.77,Miami,25.7753,-80.2089,Miami,FL,87.0
+Nashville,36281816.0,11.2,27.27,Nashville,36.1712,-86.7846,Nashville-Davidson,TN,81.0
+Raleigh-Durham,48150905.0,10.6,24.61,Raleigh-Durham,35.906549999999996,-78.77495,Raleigh-Durham,NC,37.5
+Denver,112230856.0,15.2,29.5,Denver,39.762,-104.876,Denver,CO,30.0
+Portland,60525998.0,10.7,28.76,Portland,45.5372,-122.65,Portland,OR,88.0
+Seattle,98834807.0,9.6,35.79,Seattle,47.6202,-122.351,Seattle,WA,92.0
+San Francisco,75996610.0,9.1,74.64,San Francisco,37.7642,-122.451,San Francisco,CA,95.0
+Los Angeles,192843492.0,14.2,41.4,Los Angeles,34.107,-118.412,Los Angeles,CA,5.0
+San Diego,79925630.0,12.6,33.48,San Diego,32.8169,-117.133,San Diego,CA,19.0
+Austin,51868418.0,10.7,38.65,Austin,30.3069,-97.7555,Austin,TX,77.0
+Dallas,222136339.0,18.7,26.64,Dallas,32.794,-96.7657,Dallas,TX,70.0
+Houston,167690845.0,23.8,30.8,Houston,29.7807,-95.386,Houston,TX,72.0
+Baltimore,72065787.0,14.3,24.89,Baltimore,39.301,-76.6106,Baltimore,MD,89.0
+Salt Lake City,57606204.0,9.0,23.24,Salt Lake City,40.7608,-111.891,Salt Lake City,UT,57.0
+San Antonio,31084022.0,15.3,23.07,San Antonio,29.4721,-98.5247,San Antonio,TX,68.0
+Phoenix,15204193.0,22.1,26.08,Phoenix,33.5724,-112.089,Phoenix,AZ,63.0
+St. Louis,42745445.0,12.3,20.11,St. Louis,38.6358,-90.2451,St. Louis,MO,67.0
+Pittsburgh,52115780.0,17.6,24.04,Pittsburgh,40.4396,-79.9763,Pittsburgh,PA,63.0
+Tampa Bay,34893619.0,11.4,25.28,Tampa Bay,27.968,-82.4764,Tampa,FL,51.0
+Indianapolis,32835696.0,17.4,20.33,Indianapolis,39.7771,-86.1458,Indianapolis,IN,91.0
+Cincinnati,35794287.0,20.3,19.22,Cincinnati,39.1412,-84.506,Cincinnati,OH,45.0
+Cleveland,29491084.0,19.3,19.35,Cleveland,41.4793,-81.6802,Cleveland,OH,58.0
+Columbus,29673730.0,14.3,19.89,Columbus,39.986,-82.9852,Columbus,OH,47.0
+Sacramento,44555761.0,11.6,23.64,Sacramento,38.5666,-121.468,Sacramento,CA,86.0
+Milwaukee,27665196.0,17.8,19.51,Milwaukee,43.0641,-87.9672,Milwaukee,WI,72.0
+New Orleans,21412768.0,11.0,18.99,New Orleans,29.9633,-90.0494,New Orleans,LA,86.0
+Richmond,24233284.0,11.3,19.72,Richmond,37.5294,-77.4756,Richmond,VA,1.0
+Jacksonville,20183667.0,12.3,20.0,Jacksonville,30.337,-81.6602,Jacksonville,FL,60.0
