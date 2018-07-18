@@ -28,7 +28,7 @@ Please submit the following:
 
 Text should be measured in paragraphs, not pages! We don't want you to spend more than a few hours on this. Please submit your response to ian.stuart@wework.com, and don't hesitate to reach out to the same address with any questions. You can submit your files via a link to a forked version of this repo, or you can send them as email attachments. Thank you!
 
-## Report Delivery
+## Delivery
 
 **File structure**
 
@@ -46,7 +46,7 @@ Text should be measured in paragraphs, not pages! We don't want you to spend mor
   
   Market Performance -Walk Score Analytics.html  --- Same content as ipynb with better visual - [Final Delivery](https://cdn.rawgit.com/Ruby1993/market-analytics-hw/53866fc6/Market%20Performance%20-Walk%20Score%20Analytics.html) 
   
-  Module_Process.py --- transform json file (could be reused)
+  Module_Process.py --- json file transformation (could be reused)
   
   Output -- visualizations 
   
