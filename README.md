@@ -30,4 +30,28 @@ Text should be measured in paragraphs, not pages! We don't want you to spend mor
 
 ## Report Delivery
 
-[Final Delivery](https://cdn.rawgit.com/Ruby1993/market-analytics-hw/53866fc6/Market%20Performance%20-Walk%20Score%20Analytics.html)
+**File structure**
+
+- Dataset
+  
+  ws_data.json --- walk score dataset
+
+  market_data.csv --- market building perfomance dataset
+  
+  Market_Info_CityOnly.csv --- Output file with the market and walk score info
+
+- Delivery
+  
+  Market Performance - Walk Score Analytics.ipynb --- Main file 
+  
+  Market Performance -Walk Score Analytics.html  --- Same content as ipynb with better visual - [Final Delivery](https://cdn.rawgit.com/Ruby1993/market-analytics-hw/53866fc6/Market%20Performance%20-Walk%20Score%20Analytics.html) 
+  
+  Module_Process.py --- transform json file (could be reused)
+  
+  Output -- visualizations 
+  
+  
+  
+
+
+
